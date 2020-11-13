@@ -16,7 +16,7 @@ from setuptools import find_packages
 from setuptools import setup
 
 REQUIRED_PACKAGES = [
-  'tensorflow-gpu==1.8','keras==2.2.0','h5py','pandas','requests==2.18.4','scikit-learn==0.18','Pillow', 'google-cloud','google-cloud-storage','tqdm'
+  'tensorflow-gpu==2.3.1','keras==2.2.0','h5py','pandas','requests==2.18.4','scikit-learn==0.18','Pillow', 'google-cloud','google-cloud-storage','tqdm'
 ]
 
 setup(
